@@ -6,4 +6,5 @@ Se realiza el ejercicio para hallar el promedio de un conjunto de n valores ingr
 3. se calcula el promedio
 el archivo llamado main.cpp contiene la implementacion del programa y se compila g++ main.cpp -o promedio
 ./promedio
+
 Santiago Rodriguez Amezquita
