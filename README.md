@@ -4,4 +4,6 @@ Se realiza el ejercicio para hallar el promedio de un conjunto de n valores ingr
 1. se le pregunta al usuario la cantidad de datos "n " a ingresar.
 2. se solicitan los n valores
 3. se calcula el promedio
-el archivo llamado main.cpp contiene la implementacion del programa
+el archivo llamado main.cpp contiene la implementacion del programa y se compila g++ main.cpp -o promedio
+./promedio
+Santiago Rodriguez Amezquita
